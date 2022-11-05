@@ -40,7 +40,7 @@
 
                 $cap = 50;
                 $total = 0;
-                for($i= 0; $i < $cap; $i++) {
+                for($i= 0; $i <= $cap; $i++) {
                     $total += $i;
                 }
 
